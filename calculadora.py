@@ -1,4 +1,4 @@
-# Título da aplicação:
+# Título da aplicação: teste
 print("\n******************* Calculadora em Python *******************")
 
 # Cria funções anônimas, com a expressão lamda:
